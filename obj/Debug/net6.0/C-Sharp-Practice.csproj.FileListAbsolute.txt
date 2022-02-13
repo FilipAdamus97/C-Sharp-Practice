@@ -1,0 +1,15 @@
+D:\KODOWANIE\C-Sharp-Practice\obj\Debug\net6.0\C-Sharp-Practice.csproj.AssemblyReference.cache
+D:\KODOWANIE\C-Sharp-Practice\obj\Debug\net6.0\C-Sharp-Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\KODOWANIE\C-Sharp-Practice\obj\Debug\net6.0\C-Sharp-Practice.AssemblyInfoInputs.cache
+D:\KODOWANIE\C-Sharp-Practice\obj\Debug\net6.0\C-Sharp-Practice.AssemblyInfo.cs
+D:\KODOWANIE\C-Sharp-Practice\obj\Debug\net6.0\C-Sharp-Practice.csproj.CoreCompileInputs.cache
+D:\KODOWANIE\C-Sharp-Practice\bin\Debug\net6.0\C-Sharp-Practice.exe
+D:\KODOWANIE\C-Sharp-Practice\bin\Debug\net6.0\C-Sharp-Practice.deps.json
+D:\KODOWANIE\C-Sharp-Practice\bin\Debug\net6.0\C-Sharp-Practice.runtimeconfig.json
+D:\KODOWANIE\C-Sharp-Practice\bin\Debug\net6.0\C-Sharp-Practice.dll
+D:\KODOWANIE\C-Sharp-Practice\bin\Debug\net6.0\ref\C-Sharp-Practice.dll
+D:\KODOWANIE\C-Sharp-Practice\bin\Debug\net6.0\C-Sharp-Practice.pdb
+D:\KODOWANIE\C-Sharp-Practice\obj\Debug\net6.0\C-Sharp-Practice.dll
+D:\KODOWANIE\C-Sharp-Practice\obj\Debug\net6.0\ref\C-Sharp-Practice.dll
+D:\KODOWANIE\C-Sharp-Practice\obj\Debug\net6.0\C-Sharp-Practice.pdb
+D:\KODOWANIE\C-Sharp-Practice\obj\Debug\net6.0\C-Sharp-Practice.genruntimeconfig.cache
